@@ -7,3 +7,4 @@ for i in range(2, n):
         is_prime = False
 
 print(is_prime)
+# check for prime numbers.
